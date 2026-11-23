@@ -36,6 +36,7 @@ No momento estou em busca de um estágio para aprender com um time de verdade, c
 
 <img src="https://img.shields.io/badge/C-0B1426?style=for-the-badge&logo=c&logoColor=6F9BD1" alt="C" />
 <img src="https://img.shields.io/badge/Java-0B1426?style=for-the-badge&logo=openjdk&logoColor=6F9BD1" alt="Java" />
+<img src="https://img.shields.io/badge/Python-0B1426?style=for-the-badge&logo=python&logoColor=6F9BD1" alt="Python" />
 <img src="https://img.shields.io/badge/SQL%20Server-0B1426?style=for-the-badge&logo=microsoftsqlserver&logoColor=6F9BD1" alt="SQL Server" />
 <img src="https://img.shields.io/badge/HTML-0B1426?style=for-the-badge&logo=html5&logoColor=6F9BD1" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-0B1426?style=for-the-badge&logo=css3&logoColor=6F9BD1" alt="CSS" />
@@ -49,11 +50,6 @@ No momento estou em busca de um estágio para aprender com um time de verdade, c
 <img src="https://img.shields.io/badge/GitHub-0B1426?style=for-the-badge&logo=github&logoColor=6F9BD1" alt="GitHub" />
 
 </div>
-
-<br/>
-
-## `> projetos`
-
 ### Em desenvolvimento
 
 <div align="center">
