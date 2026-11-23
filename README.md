@@ -50,11 +50,16 @@ No momento estou em busca de um estágio para aprender com um time de verdade, c
 <img src="https://img.shields.io/badge/GitHub-0B1426?style=for-the-badge&logo=github&logoColor=6F9BD1" alt="GitHub" />
 
 </div>
+
+<br/>
+
+## `> projetos`
+
 ### Em desenvolvimento
 
 <div align="center">
   <a href="https://github.com/luccamc-hub/Financial-assistent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccamc-hub&repo=Financial-assistent&theme=transparent&bg_color=0B1426&title_color=6F9BD1&text_color=C9D6E8&icon_color=4F7DB5&border_color=1E2D4A&show_owner=false" alt="Financial-assistent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccamc-hub&repo=Financial-assistent&theme=transparent&bg_color=0B1426&title_color=6F9BD1&text_color=C9D6E8&icon_color=4F7DB5&border_color=1E2D4A&show_owner=false&v=2" alt="Financial-assistent" />
   </a>
 </div>
 
@@ -65,19 +70,19 @@ No momento estou em busca de um estágio para aprender com um time de verdade, c
     <tr>
       <td align="center">
         <a href="https://github.com/luccamc-hub/Authentication_platform">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccamc-hub&repo=Authentication_platform&theme=transparent&bg_color=0B1426&title_color=6F9BD1&text_color=C9D6E8&icon_color=4F7DB5&border_color=1E2D4A&show_owner=false" alt="Authentication_platform" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccamc-hub&repo=Authentication_platform&theme=transparent&bg_color=0B1426&title_color=6F9BD1&text_color=C9D6E8&icon_color=4F7DB5&border_color=1E2D4A&show_owner=false&v=2" alt="Authentication_platform" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/luccamc-hub/Eccomerce-Web-Page">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccamc-hub&repo=Eccomerce-Web-Page&theme=transparent&bg_color=0B1426&title_color=6F9BD1&text_color=C9D6E8&icon_color=4F7DB5&border_color=1E2D4A&show_owner=false" alt="Eccomerce-Web-Page" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccamc-hub&repo=Eccomerce-Web-Page&theme=transparent&bg_color=0B1426&title_color=6F9BD1&text_color=C9D6E8&icon_color=4F7DB5&border_color=1E2D4A&show_owner=false&v=2" alt="Eccomerce-Web-Page" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <a href="https://github.com/luccamc-hub/Game-Tank-online">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccamc-hub&repo=Game-Tank-online&theme=transparent&bg_color=0B1426&title_color=6F9BD1&text_color=C9D6E8&icon_color=4F7DB5&border_color=1E2D4A&show_owner=false" alt="Game-Tank-online" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=luccamc-hub&repo=Game-Tank-online&theme=transparent&bg_color=0B1426&title_color=6F9BD1&text_color=C9D6E8&icon_color=4F7DB5&border_color=1E2D4A&show_owner=false&v=2" alt="Game-Tank-online" />
         </a>
       </td>
     </tr>
